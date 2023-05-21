@@ -1,4 +1,4 @@
-![logo](https://github.com/KnowMeAsPratham/KnowMeAsPratham/blob/main/PP.png)
+![logo](https://github.com/Pratham-creator-tech/Pratham-creator-tech/blob/main/PP.png)
 <h1 align="center">Hi 👋, I'm Pratham Agrawal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
